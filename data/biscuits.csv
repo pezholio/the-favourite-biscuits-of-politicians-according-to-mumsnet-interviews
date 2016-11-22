@@ -1,38 +1,38 @@
 Name,Person URI,Party,Party URI,Date,Biscuit
-Jeremy Corbyn,https://candidates.democracyclub.org.uk/person/1120/jeremy-corbyn,Labour,https://candidates.democracyclub.org.uk/api/v0.9/organizations/party:53/,2016-09-19,Shortbread
-Owen Smith,https://candidates.democracyclub.org.uk/person/2720/owen-smith,Labour,https://candidates.democracyclub.org.uk/api/v0.9/organizations/party:53/,2016-08-23,Custard Creams
-Tim Farron,https://candidates.democracyclub.org.uk/person/1316/tim-farron,Liberal Democrats,https://candidates.democracyclub.org.uk/api/v0.9/organizations/party:90/,2016-07-19,Custard Creams
-Nicola Sturgeon,https://candidates.democracyclub.org.uk/person/8372/nicola-sturgeon,SNP,https://candidates.democracyclub.org.uk/api/v0.9/organizations/party:102/,2016-06-21,Tunnock's Caramel Wafer
-Alan Johnson,https://candidates.democracyclub.org.uk/person/3966/alan-johnson,Labour,https://candidates.democracyclub.org.uk/api/v0.9/organizations/party:53/,2016-05-24,Chocolate Digestive
-Zac Goldsmith,https://candidates.democracyclub.org.uk/person/502/zac-goldsmith,Conservative,https://candidates.democracyclub.org.uk/api/v0.9/organizations/party:52/,2016-04-27,Chocolate Digestive
-Dan Jarvis,https://candidates.democracyclub.org.uk/person/5266/dan-jarvis,Labour,https://candidates.democracyclub.org.uk/api/v0.9/organizations/party:53/,2016-04-26,Garibaldi
-Sadiq Khan,https://candidates.democracyclub.org.uk/person/7455/sadiq-khan,Labour,https://candidates.democracyclub.org.uk/api/v0.9/organizations/party:53/,2016-04-25,Milk Chocolate Hobnobs
-Mhairi Black,https://candidates.democracyclub.org.uk/person/6055/mhairi-black,SNP,https://candidates.democracyclub.org.uk/api/v0.9/organizations/party:102/,2016-01-12,Tunnocks Caramel Wafer
-Sophie Walker,https://candidates.democracyclub.org.uk/person/7545/sophie-walker,Women's Equality Party,https://candidates.democracyclub.org.uk/api/v0.9/organizations/party:2755/,2015-04-16,Didn't Answer
-Andy Burnham,https://candidates.democracyclub.org.uk/person/1290/andy-burnham,Labour,https://candidates.democracyclub.org.uk/api/v0.9/organizations/party:53/,2015-07-28,None
-Liz Kendall,https://candidates.democracyclub.org.uk/person/1292/liz-kendall,Labour,https://candidates.democracyclub.org.uk/api/v0.9/organizations/party:53/,2015-07-28,None
-Jeremy Corbyn,https://candidates.democracyclub.org.uk/person/1120/jeremy-corbyn,Labour,https://candidates.democracyclub.org.uk/api/v0.9/organizations/party:53/,2015-07-28,Didn't Answer
-Yvette Cooper,https://candidates.democracyclub.org.uk/person/2607/yvette-cooper,Labour,https://candidates.democracyclub.org.uk/api/v0.9/organizations/party:53/,2015-07-28,Chocolate Hobnobs
-Nicola Sturgeon,https://candidates.democracyclub.org.uk/person/8372/nicola-sturgeon,SNP,https://candidates.democracyclub.org.uk/api/v0.9/organizations/party:102/,2015-05-05,Tunnocks Caramel Wafer
-Natalie Bennett,https://candidates.democracyclub.org.uk/person/3787/natalie-bennett,Green,https://candidates.democracyclub.org.uk/api/v0.9/organizations/party:63/,2015-03-03,Macaroons
-Alistair Darling,https://candidates.democracyclub.org.uk/person/526/alistair-darling,Labour,https://candidates.democracyclub.org.uk/api/v0.9/organizations/party:53/,2014-09-10,Tunnocks Caramel Wafer
-Alex Salmond,https://candidates.democracyclub.org.uk/person/4911/alex-salmond,SNP,https://candidates.democracyclub.org.uk/api/v0.9/organizations/party:102/,2014-09-10,Jim Walker’s plain chocolate ginger shortbread
-Harriet Harman,https://candidates.democracyclub.org.uk/person/3885/harriet-harman,Labour,https://candidates.democracyclub.org.uk/api/v0.9/organizations/party:53/,2015-08-07,Not Asked
-Ed Davey,https://candidates.democracyclub.org.uk/person/4507/edward-davey,Liberal Democrats,https://candidates.democracyclub.org.uk/api/v0.9/organizations/party:90/,2013-02-11,Fig Roll
-Jacqui Smith,https://candidates.democracyclub.org.uk/person/1347/jacqui-smith,Labour,https://candidates.democracyclub.org.uk/api/v0.9/organizations/party:53/,2012-12-03,Husband's homemade biscuits
-Stella Creasy,https://candidates.democracyclub.org.uk/person/3774/stella-creasy,Labour,https://candidates.democracyclub.org.uk/api/v0.9/organizations/party:53/,2012-09-25,Fox's Viennese
-Lord Adonis,,Labour,https://candidates.democracyclub.org.uk/api/v0.9/organizations/party:53/,2012-09-21,Jaffa Cakes
-Andrew Mitchell,https://candidates.democracyclub.org.uk/person/681/andrew-mitchell,Conservative,https://candidates.democracyclub.org.uk/api/v0.9/organizations/party:52/,2012-07-06,Caramel chocolate digestives
-Jenny Jones,https://candidates.democracyclub.org.uk/person/1355/jenny-jones,Green,https://candidates.democracyclub.org.uk/api/v0.9/organizations/party:63/,2012-04-27,M&S dark chocolate ginger
+Jeremy Corbyn,https://candidates.democracyclub.org.uk/person/1120/jeremy-corbyn,Labour,https://www.wikidata.org/wiki/Q9630,2016-09-19,Shortbread
+Owen Smith,https://candidates.democracyclub.org.uk/person/2720/owen-smith,Labour,https://www.wikidata.org/wiki/Q9630,2016-08-23,Custard Creams
+Tim Farron,https://candidates.democracyclub.org.uk/person/1316/tim-farron,Liberal Democrats,https://www.wikidata.org/wiki/Q9624,2016-07-19,Custard Creams
+Nicola Sturgeon,https://candidates.democracyclub.org.uk/person/8372/nicola-sturgeon,SNP,https://www.wikidata.org/wiki/Q10658,2016-06-21,Tunnock's Caramel Wafer
+Alan Johnson,https://candidates.democracyclub.org.uk/person/3966/alan-johnson,Labour,https://www.wikidata.org/wiki/Q9630,2016-05-24,Chocolate Digestive
+Zac Goldsmith,https://candidates.democracyclub.org.uk/person/502/zac-goldsmith,Conservative,https://www.wikidata.org/wiki/Q9626,2016-04-27,Chocolate Digestive
+Dan Jarvis,https://candidates.democracyclub.org.uk/person/5266/dan-jarvis,Labour,https://www.wikidata.org/wiki/Q9630,2016-04-26,Garibaldi
+Sadiq Khan,https://candidates.democracyclub.org.uk/person/7455/sadiq-khan,Labour,https://www.wikidata.org/wiki/Q9630,2016-04-25,Milk Chocolate Hobnobs
+Mhairi Black,https://candidates.democracyclub.org.uk/person/6055/mhairi-black,SNP,https://www.wikidata.org/wiki/Q10658,2016-01-12,Tunnocks Caramel Wafer
+Sophie Walker,https://candidates.democracyclub.org.uk/person/7545/sophie-walker,Women's Equality Party,https://www.wikidata.org/wiki/Q20648714,2015-04-16,Didn't Answer
+Andy Burnham,https://candidates.democracyclub.org.uk/person/1290/andy-burnham,Labour,https://www.wikidata.org/wiki/Q9630,2015-07-28,None
+Liz Kendall,https://candidates.democracyclub.org.uk/person/1292/liz-kendall,Labour,https://www.wikidata.org/wiki/Q9630,2015-07-28,None
+Jeremy Corbyn,https://candidates.democracyclub.org.uk/person/1120/jeremy-corbyn,Labour,https://www.wikidata.org/wiki/Q9630,2015-07-28,Didn't Answer
+Yvette Cooper,https://candidates.democracyclub.org.uk/person/2607/yvette-cooper,Labour,https://www.wikidata.org/wiki/Q9630,2015-07-28,Chocolate Hobnobs
+Nicola Sturgeon,https://candidates.democracyclub.org.uk/person/8372/nicola-sturgeon,SNP,https://www.wikidata.org/wiki/Q10658,2015-05-05,Tunnocks Caramel Wafer
+Natalie Bennett,https://candidates.democracyclub.org.uk/person/3787/natalie-bennett,Green,https://www.wikidata.org/wiki/Q9669,2015-03-03,Macaroons
+Alistair Darling,https://candidates.democracyclub.org.uk/person/526/alistair-darling,Labour,https://www.wikidata.org/wiki/Q9630,2014-09-10,Tunnocks Caramel Wafer
+Alex Salmond,https://candidates.democracyclub.org.uk/person/4911/alex-salmond,SNP,https://www.wikidata.org/wiki/Q10658,2014-09-10,Jim Walker’s plain chocolate ginger shortbread
+Harriet Harman,https://candidates.democracyclub.org.uk/person/3885/harriet-harman,Labour,https://www.wikidata.org/wiki/Q9630,2015-08-07,Not Asked
+Ed Davey,https://candidates.democracyclub.org.uk/person/4507/edward-davey,Liberal Democrats,https://www.wikidata.org/wiki/Q9624,2013-02-11,Fig Roll
+Jacqui Smith,https://candidates.democracyclub.org.uk/person/1347/jacqui-smith,Labour,https://www.wikidata.org/wiki/Q9630,2012-12-03,Husband's homemade biscuits
+Stella Creasy,https://candidates.democracyclub.org.uk/person/3774/stella-creasy,Labour,https://www.wikidata.org/wiki/Q9630,2012-09-25,Fox's Viennese
+Lord Adonis,,Labour,https://www.wikidata.org/wiki/Q9630,2012-09-21,Jaffa Cakes
+Andrew Mitchell,https://candidates.democracyclub.org.uk/person/681/andrew-mitchell,Conservative,https://www.wikidata.org/wiki/Q9626,2012-07-06,Caramel chocolate digestives
+Jenny Jones,https://candidates.democracyclub.org.uk/person/1355/jenny-jones,Green,https://www.wikidata.org/wiki/Q9669,2012-04-27,M&S dark chocolate ginger
 Siobhan Benita,,Independent,,2012-05-01,Shortbread finger
-Lawrence Webb,https://candidates.democracyclub.org.uk/person/3526/lawrence-webb,UKIP,https://candidates.democracyclub.org.uk/api/v0.9/organizations/party:85/,2012-05-01,Sainsbury's bourbon
-Ken Livingstone,,Labour,https://candidates.democracyclub.org.uk/api/v0.9/organizations/party:53/,2012-04-18,White chocolate finger
-Boris Johnson,https://candidates.democracyclub.org.uk/person/4546/boris-johnson,Conservative,https://candidates.democracyclub.org.uk/api/v0.9/organizations/party:52/,2012-04-16,Chocolate Digestive
-Ed Miliband,https://candidates.democracyclub.org.uk/person/3056/ed-miliband,Labour,https://candidates.democracyclub.org.uk/api/v0.9/organizations/party:53/,2011-12-01,Jaffa cake
-Nigel Farage,https://candidates.democracyclub.org.uk/person/4800/nigel-farage,UKIP,https://candidates.democracyclub.org.uk/api/v0.9/organizations/party:85/,2011-02-24,Didn't Answer
-Alex Salmond,https://candidates.democracyclub.org.uk/person/4911/alex-salmond,SNP,https://candidates.democracyclub.org.uk/api/v0.9/organizations/party:102/,2011-02-10,Plain chocolate caramel wafers
-Nick Clegg,https://candidates.democracyclub.org.uk/person/254/nick-clegg,Liberal Democrats,https://candidates.democracyclub.org.uk/api/v0.9/organizations/party:90/,2010-01-04,Didn't answer
-Douglas Alexander,https://candidates.democracyclub.org.uk/person/1814/douglas-alexander,Labour,https://candidates.democracyclub.org.uk/api/v0.9/organizations/party:53/,2010-02-25,Chocolate Leibnitz
-Ed Miliband,https://candidates.democracyclub.org.uk/person/3056/ed-miliband,Labour,https://candidates.democracyclub.org.uk/api/v0.9/organizations/party:53/,2009-12-01,Jaffa Cake
-David Cameron,https://candidates.democracyclub.org.uk/person/566/david-cameron,Conservative,https://candidates.democracyclub.org.uk/api/v0.9/organizations/party:52/,2009-11-17,Oatcakes with butter and cheese
-Gordon Brown,https://candidates.democracyclub.org.uk/person/744/gordon-brown,Labour,https://candidates.democracyclub.org.uk/api/v0.9/organizations/party:53/,2009-10-16,Anything with a bit of chocolate
+Lawrence Webb,https://candidates.democracyclub.org.uk/person/3526/lawrence-webb,Independent,,2012-05-01,Sainsbury's bourbon
+Ken Livingstone,,Labour,https://www.wikidata.org/wiki/Q9630,2012-04-18,White chocolate finger
+Boris Johnson,https://candidates.democracyclub.org.uk/person/4546/boris-johnson,Conservative,https://www.wikidata.org/wiki/Q9626,2012-04-16,Chocolate Digestive
+Ed Miliband,https://candidates.democracyclub.org.uk/person/3056/ed-miliband,Labour,https://www.wikidata.org/wiki/Q9630,2011-12-01,Jaffa cake
+Nigel Farage,https://candidates.democracyclub.org.uk/person/4800/nigel-farage,UKIP,https://www.wikidata.org/wiki/Q10647,2011-02-24,Didn't Answer
+Alex Salmond,https://candidates.democracyclub.org.uk/person/4911/alex-salmond,SNP,https://www.wikidata.org/wiki/Q10658,2011-02-10,Plain chocolate caramel wafers
+Nick Clegg,https://candidates.democracyclub.org.uk/person/254/nick-clegg,Liberal Democrats,https://www.wikidata.org/wiki/Q9624,2010-01-04,Didn't answer
+Douglas Alexander,https://candidates.democracyclub.org.uk/person/1814/douglas-alexander,Labour,https://www.wikidata.org/wiki/Q9630,2010-02-25,Chocolate Leibnitz
+Ed Miliband,https://candidates.democracyclub.org.uk/person/3056/ed-miliband,Labour,https://www.wikidata.org/wiki/Q9630,2009-12-01,Jaffa Cake
+David Cameron,https://candidates.democracyclub.org.uk/person/566/david-cameron,Conservative,https://www.wikidata.org/wiki/Q9626,2009-11-17,Oatcakes with butter and cheese
+Gordon Brown,https://candidates.democracyclub.org.uk/person/744/gordon-brown,Labour,https://www.wikidata.org/wiki/Q9630,2009-10-16,Anything with a bit of chocolate
